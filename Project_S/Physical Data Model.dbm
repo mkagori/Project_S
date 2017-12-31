@@ -21,16 +21,16 @@
   </DB2Model:DB2Schema>
   <LUW:LUWTable xmi:id="_XR1XoO6DEeet_Y9oHrGFlw" name="Emp" schema="_U8xkwO6DEeet_Y9oHrGFlw">
     <columns xsi:type="LUW:LUWColumn" xmi:id="_YLHJAO6DEeet_Y9oHrGFlw" name="Column1">
-      <containedType xsi:type="SQLDataTypes:CharacterStringDataType" xmi:id="_YLIXIO6DEeet_Y9oHrGFlw" name="CHAR" length="5"/>
+      <containedType xsi:type="SQLDataTypes:CharacterStringDataType" xmi:id="_YLIXIO6DEeet_Y9oHrGFlw" name="CHAR" length="15"/>
     </columns>
     <columns xsi:type="LUW:LUWColumn" xmi:id="_YR-mAO6DEeet_Y9oHrGFlw" name="Column2">
-      <containedType xsi:type="SQLDataTypes:CharacterStringDataType" xmi:id="_YR-mAe6DEeet_Y9oHrGFlw" name="CHAR" length="5"/>
+      <containedType xsi:type="SQLDataTypes:CharacterStringDataType" xmi:id="_YR-mAe6DEeet_Y9oHrGFlw" name="CHAR" length="50"/>
     </columns>
     <columns xsi:type="LUW:LUWColumn" xmi:id="_YYPmEO6DEeet_Y9oHrGFlw" name="Column3">
-      <containedType xsi:type="SQLDataTypes:CharacterStringDataType" xmi:id="_YYPmEe6DEeet_Y9oHrGFlw" name="CHAR" length="5"/>
+      <containedType xsi:type="SQLDataTypes:CharacterStringDataType" xmi:id="_YYPmEe6DEeet_Y9oHrGFlw" name="CHAR" length="20"/>
     </columns>
     <columns xsi:type="LUW:LUWColumn" xmi:id="_YayjwO6DEeet_Y9oHrGFlw" name="Column4">
-      <containedType xsi:type="SQLDataTypes:CharacterStringDataType" xmi:id="_YazK0O6DEeet_Y9oHrGFlw" name="CHAR" length="5"/>
+      <containedType xsi:type="SQLDataTypes:CharacterStringDataType" xmi:id="_YazK0O6DEeet_Y9oHrGFlw" name="CHAR" length="30"/>
     </columns>
   </LUW:LUWTable>
 </xmi:XMI>
